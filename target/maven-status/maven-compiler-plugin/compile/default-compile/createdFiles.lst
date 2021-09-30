@@ -1,0 +1,5 @@
+com/datos/PersonaDaoImpl.class
+com/servicio/IPersonaService.class
+com/datos/IPersonaDao.class
+com/domain/Persona.class
+com/servicio/PersonaServiceImpl.class
